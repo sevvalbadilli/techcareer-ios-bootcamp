@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "42U-dr-PoB"; */
+"42U-dr-PoB.text" = "E-posta";
+
+/* Class = "UILabel"; text = "DogWalker"; ObjectID = "P68-6E-Pp1"; */
+"P68-6E-Pp1.text" = "DogWalker";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "nWV-yh-AMF"; */
+"nWV-yh-AMF.configuration.title" = "Kayıt Ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nWV-yh-AMF"; */
+"nWV-yh-AMF.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "odD-5K-OmS"; */
+"odD-5K-OmS.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "odD-5K-OmS"; */
+"odD-5K-OmS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "veW-pn-lMv"; */
+"veW-pn-lMv.text" = "Şifre";
